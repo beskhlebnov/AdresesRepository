@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AdresRepository</string>
+    <string name="isalways">Клиент постоянный?</string>
+    <string name="person">ФИО клиента</string>
+    <string name="person_hint">Введите ФИО клиента</string>
+    <string name="street">Улица</string>
+    <string name="street_hint">Введите улицу клиента</string>
+    <string name="building">Строение</string>
+    <string name="building_hint">Введите строение клиента</string>
+    <string name="office">Квартира/Офис</string>
+    <string name="office_hint">Введите квартиру/офис клиента</string>
+    <string name="date">Дата регистрации</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="city_hint">Введите город</string>
+    <string name="city_text">Город</string>
+    <string name="fullname_hint">Введите полное название страны</string>
+    <string name="shortname_hint">Введите короткое название</string>
+</resources>
